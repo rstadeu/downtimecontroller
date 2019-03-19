@@ -1,0 +1,396 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{D4BC424E-7CD0-4DD9-95C3-E9DD8CBAB873}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DownTimeController</RootNamespace>
+    <AssemblyName>DownTimeController</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.Compatibility" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Telerik.WinControls, Version=2011.1.11.315, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.WinControls.GridView, Version=2011.1.11.315, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.WinControls.RadChart, Version=2011.1.11.315, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.WinControls.RadDock, Version=2011.1.11.315, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.WinControls.RadMarkupEditor, Version=2011.1.11.315, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.WinControls.Scheduler, Version=2011.1.11.315, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.WinControls.Themes.Aqua, Version=2011.1.11.315, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.WinControls.Themes.Breeze, Version=2011.1.11.315, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.WinControls.Themes.BreezeExtended, Version=2011.1.11.315, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.WinControls.Themes.Desert, Version=2011.1.11.315, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.WinControls.Themes.HighContrastBlack, Version=2011.1.11.315, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.WinControls.Themes.Miscellaneous, Version=2011.1.11.315, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.WinControls.Themes.Office2007Black, Version=2011.1.11.315, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.WinControls.Themes.Office2007Silver, Version=2011.1.11.315, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.WinControls.Themes.Office2010Black, Version=2011.1.11.315, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.WinControls.Themes.Office2010Blue, Version=2011.1.11.315, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.WinControls.Themes.Office2010Silver, Version=2011.1.11.315, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.WinControls.Themes.Telerik, Version=2011.1.11.315, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.WinControls.Themes.Vista, Version=2011.1.11.315, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.WinControls.Themes.Windows7, Version=2011.1.11.315, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.WinControls.UI, Version=2011.1.11.315, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
+    <Reference Include="TelerikCommon, Version=2011.1.11.315, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
+    <Reference Include="TelerikData, Version=2011.1.11.315, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes\AbsolutePath.cs" />
+    <Compile Include="Classes\ControlWindow.cs" />
+    <Compile Include="Classes\ControlWinExtender.cs" />
+    <Compile Include="Classes\Encriptor.cs" />
+    <Compile Include="Classes\ErrorCode.cs" />
+    <Compile Include="Classes\ErrorCodeExtender.cs" />
+    <Compile Include="Classes\Path.cs" />
+    <Compile Include="Classes\Station.cs" />
+    <Compile Include="Classes\StationBOM.cs" />
+    <Compile Include="Classes\User.cs" />
+    <Compile Include="Classes\UserExtender.cs" />
+    <Compile Include="DownTimeManager\ErrorCodeLoad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DownTimeManager\ErrorCodeLoad.Designer.cs">
+      <DependentUpon>ErrorCodeLoad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DownTimeManager\RadForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DownTimeManager\RadForm1.Designer.cs">
+      <DependentUpon>RadForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FindErrorCode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FindErrorCode.Designer.cs">
+      <DependentUpon>FindErrorCode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login.Designer.cs">
+      <DependentUpon>login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OpenTicket.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OpenTicket.Designer.cs">
+      <DependentUpon>OpenTicket.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RadForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RadForm1.Designer.cs">
+      <DependentUpon>RadForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Station.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Station.Designer.cs">
+      <DependentUpon>Station.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="DownTimeManager\ErrorCodeLoad.resx">
+      <DependentUpon>ErrorCodeLoad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DownTimeManager\RadForm1.resx">
+      <DependentUpon>RadForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FindErrorCode.resx">
+      <DependentUpon>FindErrorCode.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login.resx">
+      <DependentUpon>login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OpenTicket.resx">
+      <DependentUpon>OpenTicket.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="RadForm1.resx">
+      <DependentUpon>RadForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Station.resx">
+      <DependentUpon>Station.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CaixadeFerramentas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1393746525_System_Preferences.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1393746538_User.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1393746616_Toolbox.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1393746638_ColumnChart.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1393746956_custom-reports.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1393747002_configure.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1393747082_excel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1393747089_binoculars.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1393747260_package_system.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1393747266_-desktop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1393747302_Antivirus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1393747368_-harddrive.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1393747378_-usb.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1393747390_-tools.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1393747407_Error.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1393747438_-books.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1393747439_Stats.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1393747458_Antivirus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1393747520_-dvd.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1393747530_-camera.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1393747544_-trash.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1393747566_-mouse.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1393747590_Warning.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1393747738_Security_Card.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cronometer48.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Stop_small.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Box32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Box48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Box64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Box77.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CaixadeFerramentas32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CaixadeFerramentas48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CaixadeFerramentas64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Stop32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Stop48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Stop64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Stop77.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\User32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\User48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\User64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\User90.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1393999895_Android-Clock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pill77.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1394002464_Login_in.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1394002571_Login_out.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1394002668_key.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Android-Clock1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Android-Clock2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Android-Clock3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1394262136_expand.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Minimaze.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="DLLs\Telerik.WinControls.dll" />
+    <Content Include="DLLs\Telerik.WinControls.GridView.dll" />
+    <Content Include="DLLs\Telerik.WinControls.RadChart.dll" />
+    <Content Include="DLLs\Telerik.WinControls.RadDock.dll" />
+    <Content Include="DLLs\Telerik.WinControls.RadMarkupEditor.dll" />
+    <Content Include="DLLs\Telerik.WinControls.Scheduler.dll" />
+    <Content Include="DLLs\Telerik.WinControls.Themes.Aqua.dll" />
+    <Content Include="DLLs\Telerik.WinControls.Themes.Breeze.dll" />
+    <Content Include="DLLs\Telerik.WinControls.Themes.BreezeExtended.dll" />
+    <Content Include="DLLs\Telerik.WinControls.Themes.Desert.dll" />
+    <Content Include="DLLs\Telerik.WinControls.Themes.HighContrastBlack.dll" />
+    <Content Include="DLLs\Telerik.WinControls.Themes.Miscellaneous.dll" />
+    <Content Include="DLLs\Telerik.WinControls.Themes.Office2007Black.dll" />
+    <Content Include="DLLs\Telerik.WinControls.Themes.Office2007Silver.dll" />
+    <Content Include="DLLs\Telerik.WinControls.Themes.Office2010Black.dll" />
+    <Content Include="DLLs\Telerik.WinControls.Themes.Office2010Blue.dll" />
+    <Content Include="DLLs\Telerik.WinControls.Themes.Office2010Silver.dll" />
+    <Content Include="DLLs\Telerik.WinControls.Themes.Telerik.dll" />
+    <Content Include="DLLs\Telerik.WinControls.Themes.Vista.dll" />
+    <Content Include="DLLs\Telerik.WinControls.Themes.Windows7.dll" />
+    <Content Include="DLLs\Telerik.WinControls.UI.Design.dll" />
+    <Content Include="DLLs\Telerik.WinControls.UI.dll" />
+    <None Include="Resources\order-history.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

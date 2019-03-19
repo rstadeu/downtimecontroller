@@ -1,0 +1,125 @@
+C:\Users\Roberto\Documents\Visual Studio 2005\Projects\OpenTickets\OpenTickets\bin\Debug\OpenTickets.exe
+C:\Users\Roberto\Documents\Visual Studio 2005\Projects\OpenTickets\OpenTickets\bin\Debug\OpenTickets.pdb
+C:\Users\Roberto\Documents\Visual Studio 2005\Projects\OpenTickets\OpenTickets\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Roberto\Documents\Visual Studio 2005\Projects\OpenTickets\OpenTickets\obj\Debug\OpenTickets.Form1.resources
+C:\Users\Roberto\Documents\Visual Studio 2005\Projects\OpenTickets\OpenTickets\obj\Debug\OpenTickets.Properties.Resources.resources
+C:\Users\Roberto\Documents\Visual Studio 2005\Projects\OpenTickets\OpenTickets\obj\Debug\OpenTickets.csproj.GenerateResource.Cache
+C:\Users\Roberto\Documents\Visual Studio 2005\Projects\OpenTickets\OpenTickets\obj\Debug\OpenTickets.exe
+C:\Users\Roberto\Documents\Visual Studio 2005\Projects\OpenTickets\OpenTickets\obj\Debug\OpenTickets.pdb
+C:\Users\Roberto\Documents\Visual Studio 2005\Projects\OpenTickets\OpenTickets\obj\Debug\OpenTickets.login.resources
+C:\Users\Roberto\Documents\Visual Studio 2005\Projects\OpenTickets\OpenTickets\bin\Debug\DownTimeControl.mdb
+C:\Users\Roberto\Documents\Visual Studio 2005\Projects\OpenTickets\OpenTickets\bin\Debug\OpenTickets.exe.config
+C:\Users\Roberto\Documents\Visual Studio 2005\Projects\OpenTickets\OpenTickets\obj\Debug\OpenTickets.StationResgister.resources
+C:\Users\Roberto\Documents\Visual Studio 2005\Projects\OpenTickets\OpenTickets\obj\Debug\OpenTickets.AbreTicket.resources
+C:\Users\Roberto\Documents\Visual Studio 2005\Projects\OpenTickets\V1.0\OpenTickets\OpenTickets\OpenTickets\bin\Debug\OpenTickets.exe.config
+C:\Users\Roberto\Documents\Visual Studio 2005\Projects\OpenTickets\V1.0\OpenTickets\OpenTickets\OpenTickets\obj\Debug\OpenTickets.exe
+C:\Users\Roberto\Documents\Visual Studio 2005\Projects\OpenTickets\V1.0\OpenTickets\OpenTickets\OpenTickets\obj\Debug\OpenTickets.pdb
+C:\Users\Roberto\Documents\Visual Studio 2005\Projects\OpenTickets\V1.0\OpenTickets\OpenTickets\OpenTickets\bin\Debug\DownTimeControl.mdb
+C:\Users\Roberto\Documents\Visual Studio 2005\Projects\OpenTickets\V1.0\OpenTickets\OpenTickets\OpenTickets\bin\Debug\OpenTickets.exe
+C:\Users\Roberto\Documents\Visual Studio 2005\Projects\OpenTickets\V1.0\OpenTickets\OpenTickets\OpenTickets\bin\Debug\OpenTickets.pdb
+C:\Users\Roberto\Documents\Visual Studio 2005\Projects\OpenTickets\V1.0\OpenTickets\OpenTickets\OpenTickets\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Roberto\Documents\Visual Studio 2005\Projects\OpenTickets\V1.0\OpenTickets\OpenTickets\OpenTickets\obj\Debug\OpenTickets.AbreTicket.resources
+C:\Users\Roberto\Documents\Visual Studio 2005\Projects\OpenTickets\V1.0\OpenTickets\OpenTickets\OpenTickets\obj\Debug\OpenTickets.Form1.resources
+C:\Users\Roberto\Documents\Visual Studio 2005\Projects\OpenTickets\V1.0\OpenTickets\OpenTickets\OpenTickets\obj\Debug\OpenTickets.login.resources
+C:\Users\Roberto\Documents\Visual Studio 2005\Projects\OpenTickets\V1.0\OpenTickets\OpenTickets\OpenTickets\obj\Debug\OpenTickets.Properties.Resources.resources
+C:\Users\Roberto\Documents\Visual Studio 2005\Projects\OpenTickets\V1.0\OpenTickets\OpenTickets\OpenTickets\obj\Debug\OpenTickets.StationResgister.resources
+C:\Users\Roberto\Documents\Visual Studio 2005\Projects\OpenTickets\V1.0\OpenTickets\OpenTickets\OpenTickets\obj\Debug\OpenTickets.csproj.GenerateResource.Cache
+C:\Users\Roberto\Documents\Visual Studio 2005\Projects\OpenTickets\V1.0\OpenTickets\OpenTickets\OpenTickets\bin\Debug\pt-BR\OpenTickets.resources.dll
+C:\Users\Roberto\Documents\Visual Studio 2005\Projects\OpenTickets\V1.0\OpenTickets\OpenTickets\OpenTickets\obj\Debug\OpenTickets.Form1.pt-BR.resources
+C:\Users\Roberto\Documents\Visual Studio 2005\Projects\OpenTickets\V1.0\OpenTickets\OpenTickets\OpenTickets\obj\Debug\pt-BR\OpenTickets.resources.dll
+C:\Users\Roberto\Documents\Visual Studio 2005\Projects\OpenTickets\V1.0\OpenTickets\OpenTickets\OpenTickets\obj\Debug\OpenTickets.fechaOrdem.resources
+C:\Projetos\OpenTickets\V1.0\OpenTickets\OpenTickets\OpenTickets\bin\Debug\OpenTickets.exe.config
+C:\Projetos\OpenTickets\V1.0\OpenTickets\OpenTickets\OpenTickets\obj\Debug\OpenTickets.exe
+C:\Projetos\OpenTickets\V1.0\OpenTickets\OpenTickets\OpenTickets\obj\Debug\OpenTickets.pdb
+C:\Projetos\OpenTickets\V1.0\OpenTickets\OpenTickets\OpenTickets\bin\Debug\DownTimeControl.mdb
+C:\Projetos\OpenTickets\V1.0\OpenTickets\OpenTickets\OpenTickets\bin\Debug\OpenTickets.exe
+C:\Projetos\OpenTickets\V1.0\OpenTickets\OpenTickets\OpenTickets\bin\Debug\OpenTickets.pdb
+C:\Projetos\OpenTickets\V1.0\OpenTickets\OpenTickets\OpenTickets\bin\Debug\pt-BR\OpenTickets.resources.dll
+C:\Projetos\OpenTickets\V1.0\OpenTickets\OpenTickets\OpenTickets\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\OpenTickets\V1.0\OpenTickets\OpenTickets\OpenTickets\obj\Debug\OpenTickets.AbreTicket.resources
+C:\Projetos\OpenTickets\V1.0\OpenTickets\OpenTickets\OpenTickets\obj\Debug\OpenTickets.fechaOrdem.resources
+C:\Projetos\OpenTickets\V1.0\OpenTickets\OpenTickets\OpenTickets\obj\Debug\OpenTickets.Form1.resources
+C:\Projetos\OpenTickets\V1.0\OpenTickets\OpenTickets\OpenTickets\obj\Debug\OpenTickets.login.resources
+C:\Projetos\OpenTickets\V1.0\OpenTickets\OpenTickets\OpenTickets\obj\Debug\OpenTickets.Properties.Resources.resources
+C:\Projetos\OpenTickets\V1.0\OpenTickets\OpenTickets\OpenTickets\obj\Debug\OpenTickets.StationResgister.resources
+C:\Projetos\OpenTickets\V1.0\OpenTickets\OpenTickets\OpenTickets\obj\Debug\OpenTickets.csproj.GenerateResource.Cache
+C:\Projetos\OpenTickets\V1.0\OpenTickets\OpenTickets\OpenTickets\obj\Debug\OpenTickets.Form1.pt-BR.resources
+C:\Projetos\OpenTickets\V1.0\OpenTickets\OpenTickets\OpenTickets\obj\Debug\pt-BR\OpenTickets.resources.dll
+C:\Projetos\OpenTickets\V1.0\OpenTickets\OpenTickets\OpenTickets\obj\Debug\OpenTickets.TrocaSenha.resources
+C:\Projetos\OpenTickets\V1.0\OpenTickets\OpenTickets\OpenTickets\obj\Debug\OpenTickets.Historico.resources
+C:\Projetos\OpenTickets\V1.0\OpenTickets\OpenTickets\OpenTickets\obj\Debug\OpenTickets.ChamadoOutraEstacao.resources
+C:\Projetos\OpenTickets\V1.0\OpenTickets\OpenTickets\OpenTickets\bin\Release\DownTimeControl.mdb
+C:\Projetos\OpenTickets\V1.0\OpenTickets\OpenTickets\OpenTickets\bin\Release\OpenTickets.exe.config
+C:\Projetos\OpenTickets\V1.0\OpenTickets\OpenTickets\OpenTickets\bin\Release\OpenTickets.exe
+C:\Projetos\OpenTickets\V1.0\OpenTickets\OpenTickets\OpenTickets\bin\Release\OpenTickets.pdb
+C:\Projetos\OpenTickets\V1.0\OpenTickets\OpenTickets\OpenTickets\bin\Release\pt-BR\OpenTickets.resources.dll
+C:\Projetos\OpenTickets\V1.0\OpenTickets\OpenTickets\OpenTickets\obj\Release\ResolveAssemblyReference.cache
+C:\Projetos\OpenTickets\V1.0\OpenTickets\OpenTickets\OpenTickets\obj\Release\OpenTickets.AbreTicket.resources
+C:\Projetos\OpenTickets\V1.0\OpenTickets\OpenTickets\OpenTickets\obj\Release\OpenTickets.ChamadoOutraEstacao.resources
+C:\Projetos\OpenTickets\V1.0\OpenTickets\OpenTickets\OpenTickets\obj\Release\OpenTickets.fechaOrdem.resources
+C:\Projetos\OpenTickets\V1.0\OpenTickets\OpenTickets\OpenTickets\obj\Release\OpenTickets.Form1.resources
+C:\Projetos\OpenTickets\V1.0\OpenTickets\OpenTickets\OpenTickets\obj\Release\OpenTickets.Historico.resources
+C:\Projetos\OpenTickets\V1.0\OpenTickets\OpenTickets\OpenTickets\obj\Release\OpenTickets.login.resources
+C:\Projetos\OpenTickets\V1.0\OpenTickets\OpenTickets\OpenTickets\obj\Release\OpenTickets.Properties.Resources.resources
+C:\Projetos\OpenTickets\V1.0\OpenTickets\OpenTickets\OpenTickets\obj\Release\OpenTickets.StationResgister.resources
+C:\Projetos\OpenTickets\V1.0\OpenTickets\OpenTickets\OpenTickets\obj\Release\OpenTickets.TrocaSenha.resources
+C:\Projetos\OpenTickets\V1.0\OpenTickets\OpenTickets\OpenTickets\obj\Release\OpenTickets.csproj.GenerateResource.Cache
+C:\Projetos\OpenTickets\V1.0\OpenTickets\OpenTickets\OpenTickets\obj\Release\OpenTickets.Form1.pt-BR.resources
+C:\Projetos\OpenTickets\V1.0\OpenTickets\OpenTickets\OpenTickets\obj\Release\pt-BR\OpenTickets.resources.dll
+C:\Projetos\OpenTickets\V1.0\OpenTickets\OpenTickets\OpenTickets\obj\Release\OpenTickets.exe
+C:\Projetos\OpenTickets\V1.0\OpenTickets\OpenTickets\OpenTickets\obj\Release\OpenTickets.pdb
+C:\Projetos\OpenTickets\V1.0\OpenTickets\OpenTickets\OpenTickets\bin\Debug\OpenTickets.exe.manifest
+C:\Projetos\OpenTickets\V1.0\OpenTickets\OpenTickets\OpenTickets\bin\Debug\OpenTickets.application
+C:\Projetos\OpenTickets\V1.0\OpenTickets\OpenTickets\OpenTickets\obj\Debug\OpenTickets.TrustInfo.xml
+C:\Projetos\OpenTickets\V1.0\OpenTickets\OpenTickets\OpenTickets\obj\Debug\OpenTickets.exe.manifest
+C:\Projetos\OpenTickets\V1.0\OpenTickets\OpenTickets\OpenTickets\obj\Debug\OpenTickets.application
+C:\Documents and Settings\saorosou\Desktop\eSender\OpenTickets\OpenTickets\OpenTickets\bin\Debug\OpenTickets.exe.config
+C:\Documents and Settings\saorosou\Desktop\eSender\OpenTickets\OpenTickets\OpenTickets\obj\Debug\OpenTickets.exe
+C:\Documents and Settings\saorosou\Desktop\eSender\OpenTickets\OpenTickets\OpenTickets\obj\Debug\OpenTickets.pdb
+C:\Documents and Settings\saorosou\Desktop\eSender\OpenTickets\OpenTickets\OpenTickets\bin\Release\DownTimeControl.mdb
+C:\Documents and Settings\saorosou\Desktop\eSender\OpenTickets\OpenTickets\OpenTickets\bin\Release\OpenTickets.exe.config
+C:\Documents and Settings\saorosou\Desktop\eSender\OpenTickets\OpenTickets\OpenTickets\bin\Release\OpenTickets.exe.manifest
+C:\Documents and Settings\saorosou\Desktop\eSender\OpenTickets\OpenTickets\OpenTickets\bin\Release\OpenTickets.application
+C:\Documents and Settings\saorosou\Desktop\eSender\OpenTickets\OpenTickets\OpenTickets\bin\Release\OpenTickets.exe
+C:\Documents and Settings\saorosou\Desktop\eSender\OpenTickets\OpenTickets\OpenTickets\bin\Release\OpenTickets.pdb
+C:\Documents and Settings\saorosou\Desktop\eSender\OpenTickets\OpenTickets\OpenTickets\bin\Release\pt-BR\OpenTickets.resources.dll
+C:\Documents and Settings\saorosou\Desktop\eSender\OpenTickets\OpenTickets\OpenTickets\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\saorosou\Desktop\eSender\OpenTickets\OpenTickets\OpenTickets\obj\Release\OpenTickets.AbreTicket.resources
+C:\Documents and Settings\saorosou\Desktop\eSender\OpenTickets\OpenTickets\OpenTickets\obj\Release\OpenTickets.ChamadoOutraEstacao.resources
+C:\Documents and Settings\saorosou\Desktop\eSender\OpenTickets\OpenTickets\OpenTickets\obj\Release\OpenTickets.fechaOrdem.resources
+C:\Documents and Settings\saorosou\Desktop\eSender\OpenTickets\OpenTickets\OpenTickets\obj\Release\OpenTickets.Form1.resources
+C:\Documents and Settings\saorosou\Desktop\eSender\OpenTickets\OpenTickets\OpenTickets\obj\Release\OpenTickets.Historico.resources
+C:\Documents and Settings\saorosou\Desktop\eSender\OpenTickets\OpenTickets\OpenTickets\obj\Release\OpenTickets.login.resources
+C:\Documents and Settings\saorosou\Desktop\eSender\OpenTickets\OpenTickets\OpenTickets\obj\Release\OpenTickets.Properties.Resources.resources
+C:\Documents and Settings\saorosou\Desktop\eSender\OpenTickets\OpenTickets\OpenTickets\obj\Release\OpenTickets.StationResgister.resources
+C:\Documents and Settings\saorosou\Desktop\eSender\OpenTickets\OpenTickets\OpenTickets\obj\Release\OpenTickets.TrocaSenha.resources
+C:\Documents and Settings\saorosou\Desktop\eSender\OpenTickets\OpenTickets\OpenTickets\obj\Release\OpenTickets.csproj.GenerateResource.Cache
+C:\Documents and Settings\saorosou\Desktop\eSender\OpenTickets\OpenTickets\OpenTickets\obj\Release\OpenTickets.Form1.pt-BR.resources
+C:\Documents and Settings\saorosou\Desktop\eSender\OpenTickets\OpenTickets\OpenTickets\obj\Release\pt-BR\OpenTickets.resources.dll
+C:\Documents and Settings\saorosou\Desktop\eSender\OpenTickets\OpenTickets\OpenTickets\obj\Release\OpenTickets.TrustInfo.xml
+C:\Documents and Settings\saorosou\Desktop\eSender\OpenTickets\OpenTickets\OpenTickets\obj\Release\OpenTickets.exe.manifest
+C:\Documents and Settings\saorosou\Desktop\eSender\OpenTickets\OpenTickets\OpenTickets\obj\Release\OpenTickets.application
+C:\Documents and Settings\saorosou\Desktop\eSender\OpenTickets\OpenTickets\OpenTickets\obj\Release\OpenTickets.exe
+C:\Documents and Settings\saorosou\Desktop\eSender\OpenTickets\OpenTickets\OpenTickets\obj\Release\OpenTickets.pdb
+C:\Documents and Settings\saorosou\Desktop\eSender\OpenTickets\OpenTickets\OpenTickets\bin\Debug\DownTimeControl.mdb
+C:\Documents and Settings\saorosou\Desktop\eSender\OpenTickets\OpenTickets\OpenTickets\bin\Debug\OpenTickets.exe.manifest
+C:\Documents and Settings\saorosou\Desktop\eSender\OpenTickets\OpenTickets\OpenTickets\bin\Debug\OpenTickets.application
+C:\Documents and Settings\saorosou\Desktop\eSender\OpenTickets\OpenTickets\OpenTickets\bin\Debug\OpenTickets.exe
+C:\Documents and Settings\saorosou\Desktop\eSender\OpenTickets\OpenTickets\OpenTickets\bin\Debug\OpenTickets.pdb
+C:\Documents and Settings\saorosou\Desktop\eSender\OpenTickets\OpenTickets\OpenTickets\bin\Debug\pt-BR\OpenTickets.resources.dll
+C:\Documents and Settings\saorosou\Desktop\eSender\OpenTickets\OpenTickets\OpenTickets\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\saorosou\Desktop\eSender\OpenTickets\OpenTickets\OpenTickets\obj\Debug\OpenTickets.AbreTicket.resources
+C:\Documents and Settings\saorosou\Desktop\eSender\OpenTickets\OpenTickets\OpenTickets\obj\Debug\OpenTickets.ChamadoOutraEstacao.resources
+C:\Documents and Settings\saorosou\Desktop\eSender\OpenTickets\OpenTickets\OpenTickets\obj\Debug\OpenTickets.fechaOrdem.resources
+C:\Documents and Settings\saorosou\Desktop\eSender\OpenTickets\OpenTickets\OpenTickets\obj\Debug\OpenTickets.Form1.resources
+C:\Documents and Settings\saorosou\Desktop\eSender\OpenTickets\OpenTickets\OpenTickets\obj\Debug\OpenTickets.Historico.resources
+C:\Documents and Settings\saorosou\Desktop\eSender\OpenTickets\OpenTickets\OpenTickets\obj\Debug\OpenTickets.login.resources
+C:\Documents and Settings\saorosou\Desktop\eSender\OpenTickets\OpenTickets\OpenTickets\obj\Debug\OpenTickets.Properties.Resources.resources
+C:\Documents and Settings\saorosou\Desktop\eSender\OpenTickets\OpenTickets\OpenTickets\obj\Debug\OpenTickets.StationResgister.resources
+C:\Documents and Settings\saorosou\Desktop\eSender\OpenTickets\OpenTickets\OpenTickets\obj\Debug\OpenTickets.TrocaSenha.resources
+C:\Documents and Settings\saorosou\Desktop\eSender\OpenTickets\OpenTickets\OpenTickets\obj\Debug\OpenTickets.csproj.GenerateResource.Cache
+C:\Documents and Settings\saorosou\Desktop\eSender\OpenTickets\OpenTickets\OpenTickets\obj\Debug\OpenTickets.Form1.pt-BR.resources
+C:\Documents and Settings\saorosou\Desktop\eSender\OpenTickets\OpenTickets\OpenTickets\obj\Debug\pt-BR\OpenTickets.resources.dll
+C:\Documents and Settings\saorosou\Desktop\eSender\OpenTickets\OpenTickets\OpenTickets\obj\Debug\OpenTickets.TrustInfo.xml
+C:\Documents and Settings\saorosou\Desktop\eSender\OpenTickets\OpenTickets\OpenTickets\obj\Debug\OpenTickets.exe.manifest
+C:\Documents and Settings\saorosou\Desktop\eSender\OpenTickets\OpenTickets\OpenTickets\obj\Debug\OpenTickets.application

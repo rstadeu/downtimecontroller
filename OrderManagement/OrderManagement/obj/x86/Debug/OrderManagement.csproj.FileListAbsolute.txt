@@ -1,0 +1,29 @@
+C:\Users\Roberto\Documents\A Rede Social [2010]\Pastas\PIC Doc's\Programas\eSender\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.exe
+C:\Users\Roberto\Documents\A Rede Social [2010]\Pastas\PIC Doc's\Programas\eSender\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.pdb
+C:\Users\saorosou\Documents\Visual Studio 2010\Projects\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.exe
+C:\Users\saorosou\Documents\Visual Studio 2010\Projects\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.pdb
+C:\Users\saorosou\Documents\Visual Studio 2010\Projects\OrderManagement\OrderManagement\bin\x86\Debug\DownTimeControl.mdb
+C:\Users\saorosou\Documents\Visual Studio 2010\Projects\OrderManagement\OrderManagement\bin\x86\Debug\OrderManagement.exe.manifest
+C:\Users\saorosou\Documents\Visual Studio 2010\Projects\OrderManagement\OrderManagement\bin\x86\Debug\OrderManagement.application
+C:\Users\saorosou\Documents\Visual Studio 2010\Projects\OrderManagement\OrderManagement\bin\x86\Debug\OrderManagement.exe
+C:\Users\saorosou\Documents\Visual Studio 2010\Projects\OrderManagement\OrderManagement\bin\x86\Debug\OrderManagement.pdb
+C:\Users\saorosou\Documents\Visual Studio 2010\Projects\OrderManagement\OrderManagement\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\saorosou\Documents\Visual Studio 2010\Projects\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.cadClient.resources
+C:\Users\saorosou\Documents\Visual Studio 2010\Projects\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.CadProduto.resources
+C:\Users\saorosou\Documents\Visual Studio 2010\Projects\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.cadStation.resources
+C:\Users\saorosou\Documents\Visual Studio 2010\Projects\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.cadUsuario.resources
+C:\Users\saorosou\Documents\Visual Studio 2010\Projects\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.Causa.resources
+C:\Users\saorosou\Documents\Visual Studio 2010\Projects\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.email.resources
+C:\Users\saorosou\Documents\Visual Studio 2010\Projects\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.emailSw.resources
+C:\Users\saorosou\Documents\Visual Studio 2010\Projects\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.Form1.resources
+C:\Users\saorosou\Documents\Visual Studio 2010\Projects\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.login.resources
+C:\Users\saorosou\Documents\Visual Studio 2010\Projects\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.Properties.Resources.resources
+C:\Users\saorosou\Documents\Visual Studio 2010\Projects\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.Resource1.resources
+C:\Users\saorosou\Documents\Visual Studio 2010\Projects\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.rptDowntime.resources
+C:\Users\saorosou\Documents\Visual Studio 2010\Projects\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.smtp.resources
+C:\Users\saorosou\Documents\Visual Studio 2010\Projects\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.Visualizador.resources
+C:\Users\saorosou\Documents\Visual Studio 2010\Projects\OrderManagement\OrderManagement\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\saorosou\Documents\Visual Studio 2010\Projects\OrderManagement\OrderManagement\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\saorosou\Documents\Visual Studio 2010\Projects\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.TrustInfo.xml
+C:\Users\saorosou\Documents\Visual Studio 2010\Projects\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.exe.manifest
+C:\Users\saorosou\Documents\Visual Studio 2010\Projects\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.application

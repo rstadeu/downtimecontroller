@@ -1,0 +1,39 @@
+C:\Users\Roberto\Documents\Visual Studio 2005\Projects\OpenTickets\OpenTickets\bin\Debug\OpenTickets.exe
+C:\Users\Roberto\Documents\Visual Studio 2005\Projects\OpenTickets\OpenTickets\bin\Debug\OpenTickets.pdb
+C:\Users\Roberto\Documents\Visual Studio 2005\Projects\OpenTickets\OpenTickets\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Roberto\Documents\Visual Studio 2005\Projects\OpenTickets\OpenTickets\obj\Debug\OpenTickets.Form1.resources
+C:\Users\Roberto\Documents\Visual Studio 2005\Projects\OpenTickets\OpenTickets\obj\Debug\OpenTickets.Properties.Resources.resources
+C:\Users\Roberto\Documents\Visual Studio 2005\Projects\OpenTickets\OpenTickets\obj\Debug\OpenTickets.csproj.GenerateResource.Cache
+C:\Users\Roberto\Documents\Visual Studio 2005\Projects\OpenTickets\OpenTickets\obj\Debug\OpenTickets.exe
+C:\Users\Roberto\Documents\Visual Studio 2005\Projects\OpenTickets\OpenTickets\obj\Debug\OpenTickets.pdb
+C:\Users\Roberto\Documents\Visual Studio 2005\Projects\OpenTickets\OpenTickets\obj\Debug\OpenTickets.login.resources
+C:\Users\Roberto\Documents\Visual Studio 2005\Projects\OpenTickets\OpenTickets\bin\Debug\DownTimeControl.mdb
+C:\Users\Roberto\Documents\Visual Studio 2005\Projects\OpenTickets\OpenTickets\bin\Debug\OpenTickets.exe.config
+C:\Users\Roberto\Documents\Visual Studio 2005\Projects\OpenTickets\OpenTickets\obj\Debug\OpenTickets.StationResgister.resources
+C:\Users\Roberto\Documents\Visual Studio 2005\Projects\OpenTickets\OpenTickets\obj\Debug\OpenTickets.AbreTicket.resources
+C:\Documents and Settings\saorosou\My Documents\Visual Studio 2005\Projects\V1.1\OpenTickets\OpenTickets\OpenTickets\bin\Debug\OpenTickets.exe.config
+C:\Documents and Settings\saorosou\My Documents\Visual Studio 2005\Projects\V1.1\OpenTickets\OpenTickets\OpenTickets\obj\Debug\OpenTickets.exe
+C:\Documents and Settings\saorosou\My Documents\Visual Studio 2005\Projects\V1.1\OpenTickets\OpenTickets\OpenTickets\obj\Debug\OpenTickets.pdb
+C:\Documents and Settings\saorosou\My Documents\Visual Studio 2005\Projects\V1.1\OpenTickets\OpenTickets\OpenTickets\bin\Debug\DownTimeControl.mdb
+C:\Documents and Settings\saorosou\My Documents\Visual Studio 2005\Projects\V1.1\OpenTickets\OpenTickets\OpenTickets\bin\Debug\OpenTickets.exe
+C:\Documents and Settings\saorosou\My Documents\Visual Studio 2005\Projects\V1.1\OpenTickets\OpenTickets\OpenTickets\bin\Debug\OpenTickets.pdb
+C:\Documents and Settings\saorosou\My Documents\Visual Studio 2005\Projects\V1.1\OpenTickets\OpenTickets\OpenTickets\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\saorosou\My Documents\Visual Studio 2005\Projects\V1.1\OpenTickets\OpenTickets\OpenTickets\obj\Debug\OpenTickets.AbreTicket.resources
+C:\Documents and Settings\saorosou\My Documents\Visual Studio 2005\Projects\V1.1\OpenTickets\OpenTickets\OpenTickets\obj\Debug\OpenTickets.Form1.resources
+C:\Documents and Settings\saorosou\My Documents\Visual Studio 2005\Projects\V1.1\OpenTickets\OpenTickets\OpenTickets\obj\Debug\OpenTickets.login.resources
+C:\Documents and Settings\saorosou\My Documents\Visual Studio 2005\Projects\V1.1\OpenTickets\OpenTickets\OpenTickets\obj\Debug\OpenTickets.Properties.Resources.resources
+C:\Documents and Settings\saorosou\My Documents\Visual Studio 2005\Projects\V1.1\OpenTickets\OpenTickets\OpenTickets\obj\Debug\OpenTickets.StationResgister.resources
+C:\Documents and Settings\saorosou\My Documents\Visual Studio 2005\Projects\V1.1\OpenTickets\OpenTickets\OpenTickets\obj\Debug\OpenTickets.csproj.GenerateResource.Cache
+C:\Documents and Settings\saorosou\My Documents\Visual Studio 2005\Projects\V1.1\OpenTickets\OpenTickets\OpenTickets\bin\Release\DownTimeControl.mdb
+C:\Documents and Settings\saorosou\My Documents\Visual Studio 2005\Projects\V1.1\OpenTickets\OpenTickets\OpenTickets\bin\Release\OpenTickets.exe.config
+C:\Documents and Settings\saorosou\My Documents\Visual Studio 2005\Projects\V1.1\OpenTickets\OpenTickets\OpenTickets\bin\Release\OpenTickets.exe
+C:\Documents and Settings\saorosou\My Documents\Visual Studio 2005\Projects\V1.1\OpenTickets\OpenTickets\OpenTickets\bin\Release\OpenTickets.pdb
+C:\Documents and Settings\saorosou\My Documents\Visual Studio 2005\Projects\V1.1\OpenTickets\OpenTickets\OpenTickets\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\saorosou\My Documents\Visual Studio 2005\Projects\V1.1\OpenTickets\OpenTickets\OpenTickets\obj\Release\OpenTickets.AbreTicket.resources
+C:\Documents and Settings\saorosou\My Documents\Visual Studio 2005\Projects\V1.1\OpenTickets\OpenTickets\OpenTickets\obj\Release\OpenTickets.Form1.resources
+C:\Documents and Settings\saorosou\My Documents\Visual Studio 2005\Projects\V1.1\OpenTickets\OpenTickets\OpenTickets\obj\Release\OpenTickets.login.resources
+C:\Documents and Settings\saorosou\My Documents\Visual Studio 2005\Projects\V1.1\OpenTickets\OpenTickets\OpenTickets\obj\Release\OpenTickets.Properties.Resources.resources
+C:\Documents and Settings\saorosou\My Documents\Visual Studio 2005\Projects\V1.1\OpenTickets\OpenTickets\OpenTickets\obj\Release\OpenTickets.StationResgister.resources
+C:\Documents and Settings\saorosou\My Documents\Visual Studio 2005\Projects\V1.1\OpenTickets\OpenTickets\OpenTickets\obj\Release\OpenTickets.csproj.GenerateResource.Cache
+C:\Documents and Settings\saorosou\My Documents\Visual Studio 2005\Projects\V1.1\OpenTickets\OpenTickets\OpenTickets\obj\Release\OpenTickets.exe
+C:\Documents and Settings\saorosou\My Documents\Visual Studio 2005\Projects\V1.1\OpenTickets\OpenTickets\OpenTickets\obj\Release\OpenTickets.pdb

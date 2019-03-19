@@ -1,0 +1,12 @@
+C:\Users\Roberto\Documents\Visual Studio 2005\Projects\OpenTickets\OpenTickets\bin\Debug\OpenTickets.exe
+C:\Users\Roberto\Documents\Visual Studio 2005\Projects\OpenTickets\OpenTickets\bin\Debug\OpenTickets.pdb
+C:\Users\Roberto\Documents\Visual Studio 2005\Projects\OpenTickets\OpenTickets\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Roberto\Documents\Visual Studio 2005\Projects\OpenTickets\OpenTickets\obj\Debug\OpenTickets.Form1.resources
+C:\Users\Roberto\Documents\Visual Studio 2005\Projects\OpenTickets\OpenTickets\obj\Debug\OpenTickets.Properties.Resources.resources
+C:\Users\Roberto\Documents\Visual Studio 2005\Projects\OpenTickets\OpenTickets\obj\Debug\OpenTickets.csproj.GenerateResource.Cache
+C:\Users\Roberto\Documents\Visual Studio 2005\Projects\OpenTickets\OpenTickets\obj\Debug\OpenTickets.exe
+C:\Users\Roberto\Documents\Visual Studio 2005\Projects\OpenTickets\OpenTickets\obj\Debug\OpenTickets.pdb
+C:\Users\Roberto\Documents\Visual Studio 2005\Projects\OpenTickets\OpenTickets\obj\Debug\OpenTickets.login.resources
+C:\Users\Roberto\Documents\Visual Studio 2005\Projects\OpenTickets\OpenTickets\bin\Debug\DownTimeControl.mdb
+C:\Users\Roberto\Documents\Visual Studio 2005\Projects\OpenTickets\OpenTickets\bin\Debug\OpenTickets.exe.config
+C:\Users\Roberto\Documents\Visual Studio 2005\Projects\OpenTickets\OpenTickets\obj\Debug\OpenTickets.StationResgister.resources

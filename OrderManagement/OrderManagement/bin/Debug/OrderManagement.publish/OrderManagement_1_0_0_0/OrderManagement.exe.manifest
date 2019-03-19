@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly manifestVersion="1.0" xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <asmv1:assemblyIdentity name="OrderManagement.exe" version="1.0.0.0" publicKeyToken="cf6c74b8aa2deb08" language="neutral" processorArchitecture="x86" type="win32" />
+  <description asmv2:iconFile="cronometer48.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="OrderManagement" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="OrderManagement.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet class="System.Security.PermissionSet" version="1" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="4" minorVersion="10" buildNumber="0" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CrystalDecisions.CrystalReports.Engine.dll" size="376832">
+      <assemblyIdentity name="CrystalDecisions.CrystalReports.Engine" version="10.2.3600.0" publicKeyToken="692FBEA5521E1304" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>Ta/EtGr02oUZ0tQhJrS/DeKvZGI=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="OrderManagement.exe" size="270336">
+      <assemblyIdentity name="OrderManagement" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>Y00As4RSq4b6+hrhR2ecSWR6Evw=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="cronometer48.ico" size="9662">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>r+Z/IRj8zw2EE1ThqC8p6KwQH3g=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=Roberto-PC\Roberto" issuerKeyHash="c4819ac6be424abf83af13d55d892b25b7b8c2f4" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>dycKr7GUMFI0NdmYzUzyCkq8wq0=</DigestValue></Reference></SignedInfo><SignatureValue>qwhQAxM/pvr9pVfG6c5A9BVo2S8gFIAYajM1c/JzBkeOO99PiKMIIUKinsvh1XVcHqwbLkynck94dTTb1Kf+nJO02j416hXG0hAFINuQww/tWOrvYAbv0pT0BxH/1n0Pnvi9p8c4tTpDyrteFahvLTKxzWTmvNxAq+LqJvRvKSg=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>wwExa/5N6a+07cJopN7Mfr9lQFuqJr/Thfg7eIstrRRvFFLmazPAzI6wBq0Kt28D7a/OJNDGT8mWmHSEGxJTK7mQ6Cy1LzvNjNhhOWNCB9VDzyLFK0uwtIOw2ir4TNVqzXMrXM+IiBLPsoleC11Arm4O8V2NRPLnotkjsoYVrh0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="adc2bc4a0af24ccd98d93534523094b1af0a2777" Description="" Url=""><as:assemblyIdentity name="OrderManagement.exe" version="1.0.0.0" publicKeyToken="cf6c74b8aa2deb08" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=Roberto-PC\Roberto</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>ZHM5sUaMvVjNXI6oPyH5vR1p2z8=</DigestValue></Reference></SignedInfo><SignatureValue>vZHm9OKLzVk0w6Yfpk6Wd3RDMJpKa64l6eBaLeLNnTPb0YMNtJXmBt4KXLBMaOv38wchdkxjqgkLVmalT/odNHOe0nf72rbTcGHbzrWMWiMARW8mZUBuGNMj/4jCyb5Y+l88wJTXFlzvnLGwiCRrAmFdUAYvdypEpj21fS09GfI=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>wwExa/5N6a+07cJopN7Mfr9lQFuqJr/Thfg7eIstrRRvFFLmazPAzI6wBq0Kt28D7a/OJNDGT8mWmHSEGxJTK7mQ6Cy1LzvNjNhhOWNCB9VDzyLFK0uwtIOw2ir4TNVqzXMrXM+IiBLPsoleC11Arm4O8V2NRPLnotkjsoYVrh0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB4TCCAUqgAwIBAgIQSVl0CW2+pIxJ0bv6ibAX+zANBgkqhkiG9w0BAQUFADAvMS0wKwYDVQQDHiQAUgBvAGIAZQByAHQAbwAtAFAAQwBcAFIAbwBiAGUAcgB0AG8wHhcNMTAwNjI4MDY1NTQ2WhcNMTEwNjI4MTI1NTQ2WjAvMS0wKwYDVQQDHiQAUgBvAGIAZQByAHQAbwAtAFAAQwBcAFIAbwBiAGUAcgB0AG8wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAMMBMWv+TemvtO3CaKTezH6/ZUBbqia/04X4O3iLLa0UbxRS5mszwMyOsAatCrdvA+2vziTQxk/Jlph0hBsSUyu5kOgstS87zYzYYTljQgfVQ88ixStLsLSDsNoq+EzVas1zK1zPiIgSz7KJXgtdQK5uDvFdjUTy56LZI7KGFa4dAgMBAAEwDQYJKoZIhvcNAQEFBQADgYEAEXLlGVWyaMRrssTymos7eF6NoyY+70RiU9MV6WfPLW2H2Y23E4omC+rFnv3gqIPf3aV0Gn4O/H9hN++tN8+BwG113qJ+N8n+w1iIvmDi1q61R78CV20MU54BuwsS5rL4eXGU2j1TCgEz3iM3+WVrxUZ+kfvEVJEnI71dPyDBC5s=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

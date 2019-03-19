@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly manifestVersion="1.0" xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <asmv1:assemblyIdentity name="OpenTickets.exe" version="1.0.0.2" publicKeyToken="3e724527c37cbef7" language="neutral" processorArchitecture="x86" type="win32" />
+  <description asmv2:iconFile="cronometer48.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="OpenTickets" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="OpenTickets.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet class="System.Security.PermissionSet" version="1" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="4" minorVersion="10" buildNumber="0" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="OpenTickets.exe" size="917504">
+      <assemblyIdentity name="OpenTickets" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>bMIGSL692NuqIqPdKdoUOxLziPM=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="cronometer48.ico" size="9662">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>r+Z/IRj8zw2EE1ThqC8p6KwQH3g=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="DownTimeControl.mdb" size="299008" writeableType="applicationData">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>Zc6uilw6oUeRR7zxKjJp43pQmtA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="OpenTickets.exe.config" size="493">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>ymghXOecRl3mF5kb6JBE5YE+8xc=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=Roberto-PC\Roberto" issuerKeyHash="c4d8bac9403884efe3401532fa2eb19c64b8fcb6" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>3XysxeR0blHdkmL/zzZ6kBFf4/8=</DigestValue></Reference></SignedInfo><SignatureValue>ao2n+JhV+iJFcbeCgPQr5OryuRaorDuXfkbkyJp7PeONs00+V0HN++R1bpgv90nych68eqmyTGC2iKO+qXIchFM5oCeHGLuwEceomGfORKd2yN/mboyslkJ5b9dU06hiHZnyumt7drvdJnANhxJ70ISwGEPRE4BeCjJbawcK1oI=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>oW0ixoo+MCEKkHQwvoW9LSISygiEDSmAnYOqH7ryu0Z7Tcp6nQRT1ASyd9tzVO6ad67bReT8t2kz8Vlp17Jsf5AFDjYyAjvyTZZa7I4Fv/T2jpVxzd8f0gKLNm9KRKCiqJSOxC5UTqOG1RDRe3m7YjXDGlUcyw/wMF0Zd2tsNDs=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="ffe35f11907a36cfff6292dd516e74e4c5ac7cdd" Description="" Url=""><as:assemblyIdentity name="OpenTickets.exe" version="1.0.0.2" publicKeyToken="3e724527c37cbef7" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=Roberto-PC\Roberto</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>J5gC2z5jNlnr+7sLbLTyo5QiLcc=</DigestValue></Reference></SignedInfo><SignatureValue>er3PxaGZwLnRFf1PCDLmJ9G3oiU/bkPiJ6uCTMI2JEZAzveu4nFGBFfNJgZXwfBzrcRNyB9xmAZr4LaXbuWH7GQpyv+LucF4g6KCdPea0Id09GyITca5MjCrqgxk9VFJXGLQRENF/qm9BaGkaNzg/AnemHFVIIi+f0Ex92B8FOc=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>oW0ixoo+MCEKkHQwvoW9LSISygiEDSmAnYOqH7ryu0Z7Tcp6nQRT1ASyd9tzVO6ad67bReT8t2kz8Vlp17Jsf5AFDjYyAjvyTZZa7I4Fv/T2jpVxzd8f0gKLNm9KRKCiqJSOxC5UTqOG1RDRe3m7YjXDGlUcyw/wMF0Zd2tsNDs=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB4TCCAUqgAwIBAgIQKJnXygc4FKVGdoyl4s4VfjANBgkqhkiG9w0BAQUFADAvMS0wKwYDVQQDHiQAUgBvAGIAZQByAHQAbwAtAFAAQwBcAFIAbwBiAGUAcgB0AG8wHhcNMTAwNzA0MDE0MjQxWhcNMTEwNzA0MDc0MjQxWjAvMS0wKwYDVQQDHiQAUgBvAGIAZQByAHQAbwAtAFAAQwBcAFIAbwBiAGUAcgB0AG8wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAKFtIsaKPjAhCpB0ML6FvS0iEsoIhA0pgJ2Dqh+68rtGe03Kep0EU9QEsnfbc1Tumneu20Xk/LdpM/FZadeybH+QBQ42MgI78k2WWuyOBb/09o6Vcc3fH9ICizZvSkSgoqiUjsQuVE6jhtUQ0Xt5u2I1wxpVHMsP8DBdGXdrbDQ7AgMBAAEwDQYJKoZIhvcNAQEFBQADgYEAa059uZq2RkpuXOIbm+/7Ru5JYjx6Q52H/YceP0EXvGiibEcD/RJgfEpmEbCrUlNsDZEoJScrdtA5hzp05bNJGm3UxG9UQBRFOMpvpwVLFPR0UiK4bg7JEgBuSm+ubSeihogYJbiAqtGxdg+j3NDksXJTDhwuC5p7Wsml8vG5hsg=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

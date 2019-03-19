@@ -1,0 +1,6 @@
+[ODBC]
+DRIVER=SQL Server
+UID=sa
+WSID=ROBERTO-PC
+APP=2007 Microsoft Office system
+SERVER=Roberto-PC\SQL

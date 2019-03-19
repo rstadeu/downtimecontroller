@@ -1,0 +1,155 @@
+C:\Users\Roberto\Documents\Visual Studio 2005\Projects\OrderManagement\OrderManagement\bin\Debug\OrderManagement.exe
+C:\Users\Roberto\Documents\Visual Studio 2005\Projects\OrderManagement\OrderManagement\bin\Debug\OrderManagement.pdb
+C:\Users\Roberto\Documents\Visual Studio 2005\Projects\OrderManagement\OrderManagement\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Roberto\Documents\Visual Studio 2005\Projects\OrderManagement\OrderManagement\obj\Debug\OrderManagement.Form1.resources
+C:\Users\Roberto\Documents\Visual Studio 2005\Projects\OrderManagement\OrderManagement\obj\Debug\OrderManagement.Properties.Resources.resources
+C:\Users\Roberto\Documents\Visual Studio 2005\Projects\OrderManagement\OrderManagement\obj\Debug\OrderManagement.csproj.GenerateResource.Cache
+C:\Users\Roberto\Documents\Visual Studio 2005\Projects\OrderManagement\OrderManagement\obj\Debug\OrderManagement.exe
+C:\Users\Roberto\Documents\Visual Studio 2005\Projects\OrderManagement\OrderManagement\obj\Debug\OrderManagement.pdb
+C:\Users\Roberto\Documents\Visual Studio 2005\Projects\OrderManagement\OrderManagement\bin\x86\Debug\OrderManagement.exe
+C:\Users\Roberto\Documents\Visual Studio 2005\Projects\OrderManagement\OrderManagement\bin\x86\Debug\OrderManagement.pdb
+C:\Users\Roberto\Documents\Visual Studio 2005\Projects\OrderManagement\OrderManagement\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Roberto\Documents\Visual Studio 2005\Projects\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.Form1.resources
+C:\Users\Roberto\Documents\Visual Studio 2005\Projects\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.Properties.Resources.resources
+C:\Users\Roberto\Documents\Visual Studio 2005\Projects\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.csproj.GenerateResource.Cache
+C:\Users\Roberto\Documents\Visual Studio 2005\Projects\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.exe
+C:\Users\Roberto\Documents\Visual Studio 2005\Projects\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.pdb
+C:\Users\Roberto\Documents\Visual Studio 2005\Projects\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.login.resources
+C:\Users\Roberto\Documents\Visual Studio 2005\Projects\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.CadProduto.resources
+C:\Users\Roberto\Documents\Visual Studio 2005\Projects\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.cadClient.resources
+C:\Users\Roberto\Documents\Visual Studio 2005\Projects\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.cadStation.resources
+C:\Users\Roberto\Documents\Visual Studio 2005\Projects\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.Visualizador.resources
+C:\Users\Roberto\Documents\Visual Studio 2005\Projects\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.cadUsuario.resources
+C:\Users\Roberto\Documents\Visual Studio 2005\Projects\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.rptDowntime.resources
+C:\Projetos\OrderManagement\OrderManagement\bin\x86\Debug\OrderManagement.exe
+C:\Projetos\OrderManagement\OrderManagement\bin\x86\Debug\OrderManagement.pdb
+C:\Projetos\OrderManagement\OrderManagement\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Projetos\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.cadClient.resources
+C:\Projetos\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.CadProduto.resources
+C:\Projetos\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.cadStation.resources
+C:\Projetos\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.cadUsuario.resources
+C:\Projetos\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.Form1.resources
+C:\Projetos\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.login.resources
+C:\Projetos\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.Properties.Resources.resources
+C:\Projetos\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.rptDowntime.resources
+C:\Projetos\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.Visualizador.resources
+C:\Projetos\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.csproj.GenerateResource.Cache
+C:\Projetos\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.exe
+C:\Projetos\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.pdb
+C:\Projetos\OrderManagement\OrderManagement\bin\Debug\OrderManagement.exe.manifest
+C:\Projetos\OrderManagement\OrderManagement\bin\Debug\OrderManagement.application
+C:\Projetos\OrderManagement\OrderManagement\bin\Debug\OrderManagement.exe
+C:\Projetos\OrderManagement\OrderManagement\bin\Debug\OrderManagement.pdb
+C:\Projetos\OrderManagement\OrderManagement\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\OrderManagement\OrderManagement\obj\Debug\OrderManagement.cadClient.resources
+C:\Projetos\OrderManagement\OrderManagement\obj\Debug\OrderManagement.CadProduto.resources
+C:\Projetos\OrderManagement\OrderManagement\obj\Debug\OrderManagement.cadStation.resources
+C:\Projetos\OrderManagement\OrderManagement\obj\Debug\OrderManagement.cadUsuario.resources
+C:\Projetos\OrderManagement\OrderManagement\obj\Debug\OrderManagement.Form1.resources
+C:\Projetos\OrderManagement\OrderManagement\obj\Debug\OrderManagement.login.resources
+C:\Projetos\OrderManagement\OrderManagement\obj\Debug\OrderManagement.Properties.Resources.resources
+C:\Projetos\OrderManagement\OrderManagement\obj\Debug\OrderManagement.rptDowntime.resources
+C:\Projetos\OrderManagement\OrderManagement\obj\Debug\OrderManagement.Visualizador.resources
+C:\Projetos\OrderManagement\OrderManagement\obj\Debug\OrderManagement.csproj.GenerateResource.Cache
+C:\Projetos\OrderManagement\OrderManagement\obj\Debug\OrderManagement.TrustInfo.xml
+C:\Projetos\OrderManagement\OrderManagement\obj\Debug\OrderManagement.exe.manifest
+C:\Projetos\OrderManagement\OrderManagement\obj\Debug\OrderManagement.application
+C:\Projetos\OrderManagement\OrderManagement\obj\Debug\OrderManagement.exe
+C:\Projetos\OrderManagement\OrderManagement\obj\Debug\OrderManagement.pdb
+C:\Projetos\OrderManagement\OrderManagement\bin\x86\Debug\OrderManagement.exe.manifest
+C:\Projetos\OrderManagement\OrderManagement\bin\x86\Debug\OrderManagement.application
+C:\Projetos\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.TrustInfo.xml
+C:\Projetos\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.exe.manifest
+C:\Projetos\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.application
+C:\Projetos\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.generalReport.rpt
+C:\Projetos\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.Resource1.resources
+C:\Projetos\OrderManagement\OrderManagement\bin\x86\Debug\DownTimeControl.mdb
+C:\Projetos\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.Causa.resources
+C:\Projetos\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.email.resources
+C:\Projetos\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.smtp.resources
+C:\Projetos\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.emailSw.resources
+C:\Documents and Settings\saorosou\Desktop\eSender\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.exe
+C:\Documents and Settings\saorosou\Desktop\eSender\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.pdb
+C:\Documents and Settings\saorosou\Desktop\eSender\OrderManagement\OrderManagement\bin\x86\Debug\DownTimeControl.mdb
+C:\Documents and Settings\saorosou\Desktop\eSender\OrderManagement\OrderManagement\bin\x86\Debug\OrderManagement.exe.manifest
+C:\Documents and Settings\saorosou\Desktop\eSender\OrderManagement\OrderManagement\bin\x86\Debug\OrderManagement.application
+C:\Documents and Settings\saorosou\Desktop\eSender\OrderManagement\OrderManagement\bin\x86\Debug\OrderManagement.exe
+C:\Documents and Settings\saorosou\Desktop\eSender\OrderManagement\OrderManagement\bin\x86\Debug\OrderManagement.pdb
+C:\Documents and Settings\saorosou\Desktop\eSender\OrderManagement\OrderManagement\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\saorosou\Desktop\eSender\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.generalReport.rpt
+C:\Documents and Settings\saorosou\Desktop\eSender\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.cadClient.resources
+C:\Documents and Settings\saorosou\Desktop\eSender\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.CadProduto.resources
+C:\Documents and Settings\saorosou\Desktop\eSender\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.cadStation.resources
+C:\Documents and Settings\saorosou\Desktop\eSender\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.cadUsuario.resources
+C:\Documents and Settings\saorosou\Desktop\eSender\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.Causa.resources
+C:\Documents and Settings\saorosou\Desktop\eSender\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.email.resources
+C:\Documents and Settings\saorosou\Desktop\eSender\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.emailSw.resources
+C:\Documents and Settings\saorosou\Desktop\eSender\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.Form1.resources
+C:\Documents and Settings\saorosou\Desktop\eSender\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.login.resources
+C:\Documents and Settings\saorosou\Desktop\eSender\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.Properties.Resources.resources
+C:\Documents and Settings\saorosou\Desktop\eSender\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.Resource1.resources
+C:\Documents and Settings\saorosou\Desktop\eSender\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.rptDowntime.resources
+C:\Documents and Settings\saorosou\Desktop\eSender\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.smtp.resources
+C:\Documents and Settings\saorosou\Desktop\eSender\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.Visualizador.resources
+C:\Documents and Settings\saorosou\Desktop\eSender\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.csproj.GenerateResource.Cache
+C:\Documents and Settings\saorosou\Desktop\eSender\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.TrustInfo.xml
+C:\Documents and Settings\saorosou\Desktop\eSender\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.exe.manifest
+C:\Documents and Settings\saorosou\Desktop\eSender\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.application
+C:\Documents and Settings\saorosou\Desktop\AVICreator\Desktop\eSender\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.exe
+C:\Documents and Settings\saorosou\Desktop\AVICreator\Desktop\eSender\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.pdb
+C:\Documents and Settings\saorosou\Desktop\AVICreator\Desktop\eSender\OrderManagement\OrderManagement\bin\x86\Debug\DownTimeControl.mdb
+C:\Documents and Settings\saorosou\Desktop\AVICreator\Desktop\eSender\OrderManagement\OrderManagement\bin\x86\Debug\OrderManagement.exe.manifest
+C:\Documents and Settings\saorosou\Desktop\AVICreator\Desktop\eSender\OrderManagement\OrderManagement\bin\x86\Debug\OrderManagement.application
+C:\Documents and Settings\saorosou\Desktop\AVICreator\Desktop\eSender\OrderManagement\OrderManagement\bin\x86\Debug\OrderManagement.exe
+C:\Documents and Settings\saorosou\Desktop\AVICreator\Desktop\eSender\OrderManagement\OrderManagement\bin\x86\Debug\OrderManagement.pdb
+C:\Documents and Settings\saorosou\Desktop\AVICreator\Desktop\eSender\OrderManagement\OrderManagement\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\saorosou\Desktop\AVICreator\Desktop\eSender\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.generalReport.rpt
+C:\Documents and Settings\saorosou\Desktop\AVICreator\Desktop\eSender\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.cadClient.resources
+C:\Documents and Settings\saorosou\Desktop\AVICreator\Desktop\eSender\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.CadProduto.resources
+C:\Documents and Settings\saorosou\Desktop\AVICreator\Desktop\eSender\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.cadStation.resources
+C:\Documents and Settings\saorosou\Desktop\AVICreator\Desktop\eSender\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.cadUsuario.resources
+C:\Documents and Settings\saorosou\Desktop\AVICreator\Desktop\eSender\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.Causa.resources
+C:\Documents and Settings\saorosou\Desktop\AVICreator\Desktop\eSender\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.email.resources
+C:\Documents and Settings\saorosou\Desktop\AVICreator\Desktop\eSender\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.emailSw.resources
+C:\Documents and Settings\saorosou\Desktop\AVICreator\Desktop\eSender\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.Form1.resources
+C:\Documents and Settings\saorosou\Desktop\AVICreator\Desktop\eSender\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.login.resources
+C:\Documents and Settings\saorosou\Desktop\AVICreator\Desktop\eSender\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.Properties.Resources.resources
+C:\Documents and Settings\saorosou\Desktop\AVICreator\Desktop\eSender\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.Resource1.resources
+C:\Documents and Settings\saorosou\Desktop\AVICreator\Desktop\eSender\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.rptDowntime.resources
+C:\Documents and Settings\saorosou\Desktop\AVICreator\Desktop\eSender\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.smtp.resources
+C:\Documents and Settings\saorosou\Desktop\AVICreator\Desktop\eSender\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.Visualizador.resources
+C:\Documents and Settings\saorosou\Desktop\AVICreator\Desktop\eSender\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.csproj.GenerateResource.Cache
+C:\Documents and Settings\saorosou\Desktop\AVICreator\Desktop\eSender\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.TrustInfo.xml
+C:\Documents and Settings\saorosou\Desktop\AVICreator\Desktop\eSender\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.exe.manifest
+C:\Documents and Settings\saorosou\Desktop\AVICreator\Desktop\eSender\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.application
+G:\PrintScreen\AVICreator\Desktop\eSender\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.exe
+G:\PrintScreen\AVICreator\Desktop\eSender\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.pdb
+C:\Users\Roberto\Desktop\eSender\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.exe
+C:\Users\Roberto\Desktop\eSender\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.pdb
+C:\Users\Roberto\Desktop\eSender\OrderManagement\OrderManagement\bin\x86\Debug\DownTimeControl.mdb
+C:\Users\Roberto\Desktop\eSender\OrderManagement\OrderManagement\bin\x86\Debug\OrderManagement.exe.manifest
+C:\Users\Roberto\Desktop\eSender\OrderManagement\OrderManagement\bin\x86\Debug\OrderManagement.application
+C:\Users\Roberto\Desktop\eSender\OrderManagement\OrderManagement\bin\x86\Debug\OrderManagement.exe
+C:\Users\Roberto\Desktop\eSender\OrderManagement\OrderManagement\bin\x86\Debug\OrderManagement.pdb
+C:\Users\Roberto\Desktop\eSender\OrderManagement\OrderManagement\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Roberto\Desktop\eSender\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.generalReport.rpt
+C:\Users\Roberto\Desktop\eSender\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.cadClient.resources
+C:\Users\Roberto\Desktop\eSender\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.CadProduto.resources
+C:\Users\Roberto\Desktop\eSender\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.cadStation.resources
+C:\Users\Roberto\Desktop\eSender\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.cadUsuario.resources
+C:\Users\Roberto\Desktop\eSender\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.Causa.resources
+C:\Users\Roberto\Desktop\eSender\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.email.resources
+C:\Users\Roberto\Desktop\eSender\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.emailSw.resources
+C:\Users\Roberto\Desktop\eSender\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.Form1.resources
+C:\Users\Roberto\Desktop\eSender\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.login.resources
+C:\Users\Roberto\Desktop\eSender\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.Properties.Resources.resources
+C:\Users\Roberto\Desktop\eSender\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.Resource1.resources
+C:\Users\Roberto\Desktop\eSender\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.rptDowntime.resources
+C:\Users\Roberto\Desktop\eSender\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.smtp.resources
+C:\Users\Roberto\Desktop\eSender\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.Visualizador.resources
+C:\Users\Roberto\Desktop\eSender\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.csproj.GenerateResource.Cache
+C:\Users\Roberto\Desktop\eSender\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.TrustInfo.xml
+C:\Users\Roberto\Desktop\eSender\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.exe.manifest
+C:\Users\Roberto\Desktop\eSender\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.application
+C:\Users\Roberto\Desktop\Programas\eSender\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.exe
+C:\Users\Roberto\Desktop\Programas\eSender\OrderManagement\OrderManagement\obj\x86\Debug\OrderManagement.pdb
